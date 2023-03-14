@@ -9,14 +9,15 @@ except ImportError:
 
 banner = """
 
- +-+-+-+-+-+-+-+-+-+-+-+
- DEFACE TOOLS BY GH-REYZ
- +-+-+-+-+-+-+-+-+-+-+-+
+   +-+-+-+-+-+-+-+-+-+-+-+
+🔰 DEFACE TOOLS BY GH-REYZ 🔰
+   +-+-+-+-+-+-+-+-+-+-+-+
 
-Date       : 2021-9-15
 Tools      : Deface
 Github     : GH-Reyz 
-Credit to  : BlackShieldCrew 
+From to    : BlackShieldCrew 
+Date       : 14-4-2023
+
 """
 
 b = '\033[31m'
@@ -58,7 +59,7 @@ def main(__bn__):
    print(__bn__)
    while True:
       try:
-         a = x("Masukkan nama deface skrip anda: ")
+         a = x("Masukkan nama file deface skrip anda: ")
          if not os.path.isfile(a):
             print("fail '%s' tidak dijumpai"%(a))
             continue
