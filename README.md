@@ -30,8 +30,8 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 <li>pkg install python2</li>
 <li>pip2 install requests</li>
 <li>pkg install git</li>
-<li>git clone https://github.com/GH-reyz/deface</li>
-<li>cd mydeface</li>
+<li>git clone https://github.com/GH-reyz/depes</li>
+<li>cd depes</li>
 <li>python2 d.py</li>
 <br>
 
@@ -41,8 +41,8 @@ ini tidak berbahaya, dan ini hanya kaedah muat naik fail.
 <li>apt-get install pthon-pip</li>
 <li>pip install requests</li>
 <li>apt-get install git</li>
-<li>git clone https://github.com/GH-reyz/deface</li>
-<li>cd mydeface</li>
+<li>git clone https://github.com/GH-reyz/depes</li>
+<li>cd depes</li>
 <li>python2 d.py</li>
 <p>
 
