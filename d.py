@@ -15,7 +15,8 @@ banner = """
 
 Date       : 2021-9-15
 Tools      : mydeface
-Github     : /j4r1ng 
+Github     : GH-Reyz 
+Credit to  : Mr.Jaring 
 """
 
 b = '\033[31m'
