@@ -9,14 +9,14 @@ except ImportError:
 
 banner = """
 
- +-+-+-+-+-+-+-+-+
- |m|y|d|e|f|a|c|e|
- +-+-+-+-+-+-+-+-+
+ +-+-+-+-+-+-+-+-+-+-+-+
+ DEFACE TOOLS BY GH-REYZ
+ +-+-+-+-+-+-+-+-+-+-+-+
 
 Date       : 2021-9-15
-Tools      : mydeface
+Tools      : Deface
 Github     : GH-Reyz 
-Credit to  : Mr.Jaring 
+Credit to  : BlackShieldCrew 
 """
 
 b = '\033[31m'
